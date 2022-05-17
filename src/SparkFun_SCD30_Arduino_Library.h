@@ -59,7 +59,7 @@
 
 typedef union
 {
-	byte array[4];
+	unit8_t array[4];
 	float value;
 } ByteToFl; // paulvha
 
